@@ -25,7 +25,4 @@ public class RegisterFormDTO extends LoginFormDTO {
     }
 
 
-
-
-
 }
